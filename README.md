@@ -7,9 +7,16 @@ The entire project is done with HTML, CSS, and JQuery.
 ## Project Guidelines
 This is my completed student project based on this [starter repository](https://github.com/udacity/project-pixel-art-maker-starter).
 
-| CRITERIA  | SPECIFICATIONS |
-|-----------|:---------------------|
-|JavaScript Loops and Functions |  Upon the user submitting the grid size, the function makeGrid() successfully displays the grid on the screen dynamically using While and For Loops.|
-|Jquery Selectors and Event Listeners | The code uses selectors to get DOM elements and user input values. The code uses event listeners to trigger grid creation, open up a color-picker, and modify the grid colors. |
+Pick any color to draw in a pixel art style.
 
-### [Click here to VIEW](https://riskymind.github.io/Pixel-Art-Maker/)!
+## Guidelines
+• Choose the number of rows and collumns.
+• Pick the color from the ColorPicker color palette.
+• Draw using the mouse by clicking and moving.
+• Double click a cell to set it's color back to white.
+• Press reset button to clear the grid.
+• Start over.
+ 
+
+
+### [Click here to VIEW my Page](https://riskymind.github.io/Pixel-Art-Maker/)!
