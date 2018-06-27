@@ -7,7 +7,7 @@ function makeGrid() {
 	height = $("#inputHeight").val();
 	width = $("#inputWeight").val();
 
-	if (height > 50 || width > 50 || height < 1 || width < 1) {
+	if (height > 99 || width > 99 || height < 1 || width < 1) {
 		if (!error.classList.contains("error")) {
 			error.classList.toggle("error");
 			error.innerText = "The dimension has to be smaller than 99 and bigger than 0";
